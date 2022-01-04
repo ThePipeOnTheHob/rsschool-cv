@@ -28,3 +28,15 @@ Code Example
 ------------
 <// the hello world program
 console.log('Hello World');>
+
+Education
+---------
+
+2012 - 
+MSUIECS Management (BA)
+
+Languages
+---------
+
+* Russian (native speaker)
+* English ([C2](https://www.efset.org/cert/ajqd8U)) 
