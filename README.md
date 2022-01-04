@@ -1,1 +1,1 @@
-# rsschool-cv
+https://thepipeonthehob.github.io/rsschool-cv/cv
