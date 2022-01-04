@@ -17,3 +17,14 @@ Experience
 ----------
 
 * Self Employed Carpenter (2012 - 2021)
+
+Skills
+------
+* HTML
+* JavaScript
+* CSS
+
+Code Example
+------------
+<// the hello world program
+console.log('Hello World');>
