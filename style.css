@@ -1,0 +1,72 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: 'Roboto';
+}
+
+pre {
+    font-family: 'Roboto';
+}
+
+code {
+    font-family: 'Roboto';
+}
+
+codeExample {
+    font-family: 'Roboto';
+}
+
+h1 {
+    width: 250px; height: 65px;
+    background-color: aquamarine;
+}
+
+main {
+    float: left;
+}
+
+header {
+    text-shadow: 1px 1px 1px gray;
+}
+
+summary {
+    text-shadow: 1px 10px 1px gray;
+}
+
+p {
+    font-family: 'Roboto';
+}
+
+code {
+    padding-block: 15px;
+    font-family: 'Roboto';
+    color: honeydew;
+        background-color: rgb(0, 0, 0);
+}
+
+.nav-list {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+  }
+
+  html {
+    scroll-behavior: smooth; 
+  }
+
+  .nav-list {
+    list-style: none;
+  }
+
+  .nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+  }
+
+  .logo {
+      display: flex;
+      justify-content: right;
+      width: 120px;
+      height: 120px;
+  }
