@@ -64,9 +64,26 @@ code {
     line-height: 50px;
   }
 
-  .logo {
+  .logoRs {
       display: flex;
       justify-content: right;
       width: 120px;
       height: 120px;
   }
+
+  .profilePic {
+    display: flex;
+    justify-content: right;
+    width: 120px;
+    height: 120px;
+  }
+
+  
+  .logoGithub {
+    display: flex;
+    justify-content: right;
+    width: 120px;
+    height: 120px;
+    float: left;
+}
+
